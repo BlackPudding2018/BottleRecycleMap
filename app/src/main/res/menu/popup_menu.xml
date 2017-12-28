@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all"
+        android:title="전체" />
+    <item
+        android:id="@+id/lotte"
+        android:title="롯데" />
+    <item
+        android:id="@+id/mega"
+        android:title="메가마트" />
+    <item
+        android:id="@+id/homeplus"
+        android:title="홈플러스" />
+    <item
+        android:id="@+id/nh"
+        android:title="하나로마트" />
+    <item
+        android:id="@+id/emart"
+        android:title="이마트" />
+    <item
+        android:id="@+id/etc"
+        android:title="기타" />
+</menu>
